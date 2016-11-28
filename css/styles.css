@@ -1,0 +1,18 @@
+header{
+  background-image: url(../img/snake.jpg);
+  height: 300px;
+}
+
+h2{
+  text-align: center;
+  color: solid white;
+}
+#head{
+  text-align: center;
+  font-size: 1em;
+  color: white;
+  padding: 100px;
+}
+#selector{
+  background-color: pink;
+}
